@@ -1,0 +1,23 @@
+
+
+body {
+  background-color: black;
+}
+h1 {
+  text-transform: upperercase;
+  font-size: 3rem;
+}
+
+.one {
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 100px;
+  color: white;
+  font-family: "Rubik Gemstones", serif;
+  text-align: center;
+}
+
+.one-img {
+  border: 5px solid white;
+  width: 100%;
+}
